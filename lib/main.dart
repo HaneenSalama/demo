@@ -6,7 +6,7 @@ void main() {
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
-
+// tested with just a hot reload.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
