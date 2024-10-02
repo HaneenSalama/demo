@@ -6,7 +6,7 @@ void main() {
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
-
+// kkkkkkkkkkk
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -20,6 +20,7 @@ class MyApp extends StatelessWidget {
   }
 }
 
+// sssssssssssssssssssss
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key, required this.title});
 
@@ -29,6 +30,7 @@ class MyHomePage extends StatefulWidget {
   State<MyHomePage> createState() => _MyHomePageState();
 }
 
+// eeeeeeeeeeeeeeeee
 class _MyHomePageState extends State<MyHomePage> {
   int _counter = 0;
 
